@@ -1,15 +1,15 @@
 body {
-    background-color: white;
+    background-color: lightgrey;
 }
 
 h1 {
-    font-family: orienta;
+    font-family: lucida-console;
     color: purple;
     text-align: center;
 }
 
 p {
-    font-family: pridi;
+    font-family: courier-new;
     color: purple;
     font-size: 20px;
 }
