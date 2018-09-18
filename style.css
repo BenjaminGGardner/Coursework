@@ -1,15 +1,14 @@
+
 body {
-    background-color: lightgray;
+    background-color: lightblue;
 }
 
 h1 {
-    font-family: arial;
-    color: purple;
+    color: white;
     text-align: center;
 }
 
 p {
     font-family: verdana;
-    color: purple;
     font-size: 20px;
 }
