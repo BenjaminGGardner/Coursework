@@ -3,13 +3,13 @@ body {
 }
 
 h1 {
-    font-family: lucida-console;
+    font-family: arial;
     color: purple;
     text-align: center;
 }
 
 p {
-    font-family: courier-new;
+    font-family: verdana;
     color: purple;
     font-size: 20px;
 }
